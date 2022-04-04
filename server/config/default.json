@@ -1,0 +1,4 @@
+{
+   "serverPort" : 5000,
+   "dbUrl" : "mongodb+srv://freesman:freesman@cluster0.1jgm0.mongodb.net/DMTFK?retryWrites=true&w=majority"
+}
