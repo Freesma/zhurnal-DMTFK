@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zhurnal-DMTFK/static/css/main.115a46c6.css",
+    "main.js": "/zhurnal-DMTFK/static/js/main.9dde117b.js",
+    "static/media/DMTFK1.png": "/zhurnal-DMTFK/static/media/DMTFK1.e5cbfdb596d5b6bf3fc3.png",
+    "static/media/logo_dmtfc.png": "/zhurnal-DMTFK/static/media/logo_dmtfc.6669012f2cec96c2a41b.png",
+    "index.html": "/zhurnal-DMTFK/index.html",
+    "main.115a46c6.css.map": "/zhurnal-DMTFK/static/css/main.115a46c6.css.map",
+    "main.9dde117b.js.map": "/zhurnal-DMTFK/static/js/main.9dde117b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.115a46c6.css",
+    "static/js/main.9dde117b.js"
+  ]
+}
